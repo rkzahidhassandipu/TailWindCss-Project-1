@@ -4,4 +4,4 @@
     <p><b>4. Performance:</b>Tailwind CSS generates minimal CSS output by default, only including the styles that are actually used in your project. This leads to smaller file sizes and faster load times compared to traditional CSS frameworks.</p>
     <p><b>5. Community and Ecosystem:</b>Tailwind CSS has a vibrant community and ecosystem, with plenty of resources, plugins, and third-party integrations available. This active community ensures that Tailwind CSS stays up-to-date with the latest web development trends and best practices.</p>
 
-    <strong>Overall, Tailwind CSS provides a modern, efficient, and developer-friendly approach to building user interfaces on the web, making it a popular choice for many developers and teams.</strong>
+   <i>Overall, Tailwind CSS provides a modern, efficient, and developer-friendly approach to building user interfaces on the web, making it a popular choice for many developers and teams.</i>
