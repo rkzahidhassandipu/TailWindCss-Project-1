@@ -1,4 +1,4 @@
-Utility-First Approach: Tailwind CSS follows a utility-first approach, providing a set of utility classes that can be applied directly in HTML markup. This approach allows for rapid development and easy customization without writing custom CSS.
+<h4>1. Utility-First Approach:</h4> Tailwind CSS follows a utility-first approach, providing a set of utility classes that can be applied directly in HTML markup. This approach allows for rapid development and easy customization without writing custom CSS.
 Flexibility: Tailwind CSS is highly flexible and customizable. You can easily create custom designs without leaving your HTML markup, thanks to its extensive configuration options and plugin system.
 Consistency: By using a predefined set of utility classes, Tailwind CSS ensures consistency across your project. This consistency makes it easier to maintain and scale your codebase, especially in larger projects with multiple developers.
 Performance: Tailwind CSS generates minimal CSS output by default, only including the styles that are actually used in your project. This leads to smaller file sizes and faster load times compared to traditional CSS frameworks.
