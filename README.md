@@ -1,3 +1,4 @@
+<a href="https://tailwind-css-project1.netlify.app">Website Preview</a>
 <p><b>1. Utility-First Approach:</b>Tailwind CSS follows a utility-first approach, providing a set of utility classes that can be applied directly in HTML markup. This approach allows for rapid development and easy customization without writing custom CSS.</p>
     <p><b>2. Flexibility:</b>Tailwind CSS is highly flexible and customizable. You can easily create custom designs without leaving your HTML markup, thanks to its extensive configuration options and plugin system.</p>
     <p><b>3. Consistency:</b>By using a predefined set of utility classes, Tailwind CSS ensures consistency across your project. This consistency makes it easier to maintain and scale your codebase, especially in larger projects with multiple developers.</p>
